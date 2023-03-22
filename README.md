@@ -2,7 +2,7 @@
 
 # _Hi there 👋, I'm zxjdzxb
 
-I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. I am a full stack developer, Keep learning and
+I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. I'm a new front-end developer, Keep learning and
 improving every day.
 
 ### 📫 How to reach me:
