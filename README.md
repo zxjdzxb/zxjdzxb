@@ -16,9 +16,11 @@ improving every day.
 ## 🚀 I use daily:
   [![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)]()
   [![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)]()
-  [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)]()
   [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)]()
   [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)]()
+  [![React](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)]()
+  [![Websrtom](https://img.shields.io/badge/-WebStorm-000?logo=webstorm&logoColor=00ACC1)]()
+  [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)]()
   [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)]()
   [![Shell](https://img.shields.io/badge/-Shell-4EC422?logo=Shell&logoColor=FF7043)]()
   [![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)]()
@@ -26,10 +28,9 @@ improving every day.
   [![NPM](https://img.shields.io/badge/-NPM-2875E3?logo=npm&logoColor=029137)]()
   [![Postman](https://img.shields.io/badge/-Postman-7A1FA2?logo=postman&logoColor=FC8019)]()
   [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)]()
-  [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)]()
-  [![Websrtom](https://img.shields.io/badge/-WebStorm-000?logo=webstorm&logoColor=00ACC1)]()
   [![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)]()
-  [![React](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)]()
+  [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)]()
+
 
 ### 📊 Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxjdzxb&layout=compact&theme=radical)]()
