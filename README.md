@@ -30,10 +30,10 @@ improving every day.
   [![Websrtom](https://img.shields.io/badge/-WebStorm-000?logo=webstorm&logoColor=00ACC1)]()
   [![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)]()
   [![React](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)]()
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxjdzxb&layout=compact)]()
 
 - 📈 My GitHub Stats
   [![zxjdzxb's github stats](https://github-readme-stats.vercel.app/api?username=zxjdzxb&show_icons=true&theme=radical)]()
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxjdzxb&layout=compact&theme=radical)]()
 - 📊 Contribution Gragh
   [![zxjdzxb's github activity graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zxjdzxb&theme=monokai)]()
 
